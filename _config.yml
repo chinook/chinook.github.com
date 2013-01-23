@@ -1,5 +1,4 @@
 safe: true
-source: app
 lsi: false
 pygments: true
 
