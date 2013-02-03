@@ -1,7 +1,8 @@
 ---
-title: multimedia
+title: Multimedia
+layout: master
 ---
-<body>
+
 <iframe width="640" height="360" src="http://www.youtube.com/embed/U2tygIzM7Fw" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="640" height="360" src="http://www.youtube.com/embed/dAE95Y5__Ss" frameborder="0" allowfullscreen></iframe>
@@ -27,4 +28,3 @@ title: multimedia
 <iframe width="640" height="360" src="http://www.youtube.com/embed/6CJJtvbwweQ" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="640" height="360" src="http://www.youtube.com/embed/epurS1_khqE" frameborder="0" allowfullscreen></iframe>
-</body>
