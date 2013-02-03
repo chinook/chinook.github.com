@@ -1,6 +1,6 @@
 ---
 layout: projet
-title: projet
+title: Le Chinook
 ---
 
 Le projet

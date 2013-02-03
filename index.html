@@ -1,6 +1,13 @@
 ---
-title: chinook
+title: Chinook
 layout: master
 ---
 
-Page de nouvelles
+<h1>Nouvelles</h1>
+<ul>
+  {% for post in site.posts %}
+  {% if post.category != 'project' %}
+  <li><a href="{{ post.url }}">{{ post.title }} - le {{ post.date | date_to_string }}</a></li>
+  {% endif %}
+  {% endfor %}
+</ul>

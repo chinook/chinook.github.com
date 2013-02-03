@@ -3,28 +3,22 @@ title: Multimedia
 layout: master
 ---
 
-<iframe width="640" height="360" src="http://www.youtube.com/embed/U2tygIzM7Fw" frameborder="0" allowfullscreen></iframe>
+## Vidéo officiel de la compétition
 
-<iframe width="640" height="360" src="http://www.youtube.com/embed/dAE95Y5__Ss" frameborder="0" allowfullscreen></iframe>
+<div style="width:640px;margin:0 auto;">
+  <!-- enlever allow fullscreen si vous copier de youtube (le fullscreen marche pareil, ça fuck juste pas) -->
+  <iframe width="640" height="360" src="http://www.youtube.com/embed/U2tygIzM7Fw" frameborder="0" > </iframe>
+</div>
+## Autres Vidéos
 
-<iframe width="640" height="360" src="http://www.youtube.com/embed/JGRe0Wwn57E" frameborder="0" allowfullscreen></iframe>
-
-
-<iframe width="640" height="360" src="http://www.youtube.com/embed/XXeyAKOYCKg" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="640" height="360" src="http://www.youtube.com/embed/hwER18Np_ew" frameborder="0" allowfullscreen></iframe>
-
-
-<iframe width="640" height="360" src="http://www.youtube.com/embed/9U5o0Qq5bA8" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="640" height="360" src="http://www.youtube.com/embed/hogrq1OzTUA" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="640" height="360" src="http://www.youtube.com/embed/zsv2P3THhRM" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="640" height="360" src="http://www.youtube.com/embed/5vizd_T56ZY" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="640" height="360" src="http://www.youtube.com/embed/D8gRw9o4E8k" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="640" height="360" src="http://www.youtube.com/embed/6CJJtvbwweQ" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="640" height="360" src="http://www.youtube.com/embed/epurS1_khqE" frameborder="0" allowfullscreen></iframe>
+- [Chinook 2 - Déluge a Racing Aeolus 2012](http://youtu.be/dAE95Y5__Ss)
+- [Chinook 2 - Premiers essais de transmission et embrayage; Racing Aeolus 2012](http://youtu.be/JGRe0Wwn57E)
+- [Chinook 2 - Racing Aeolus 2012 Jour 6](http://youtu.be/XXeyAKOYCKg)
+- [Chinook 2 - Racing Aeolus 2012 Jour 5](http://youtu.be/hwER18Np_ew)
+- [Chinook 2 - Racing Aeolus 2012 Jour 4](http://youtu.be/9U5o0Qq5bA8)
+- [Chinook 2 - Racing Aeolus 2012 Jour 3](http://youtu.be/hogrq1OzTUA)
+- [Chinook 2 - Racing Aeolus 2012 Jour 2](http://youtu.be/zsv2P3THhRM)
+- [Chinook 2 - Racing Aeolus 2012 Jour 1](http://youtu.be/5vizd_T56ZY)
+- [Chinook 2 - Banc d'essai Chinook 2](http://youtu.be/D8gRw9o4E8k)
+- [Chinook 2 - Lancement Chinook 2](http://youtu.be/6CJJtvbwweQ)
+- [Chinook 1 - Vidéo Officiel de la compétition 2011](http://youtu.be/epurS1_khqE)
