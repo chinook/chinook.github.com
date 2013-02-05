@@ -1,19 +1,16 @@
 ---
 layout: projet
-title: Le Chinook
+title: 2011 - Chinook 1
 ---
 
-Le projet
-=========
+Le Chinook 1
+============
 
-le chinook blablabla
 
-L'équipe
-=========
+L'équipe du Chinook 1
+=====================
 
-le chinook blablabla
 
-Les commanditaires
-==================
+Les commanditaires du Chinook 2
+===============================
 
-le chinook blablabla
