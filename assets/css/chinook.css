@@ -79,6 +79,24 @@ only screen and (     -o-min-device-pixel-ratio: 2/1) {
 
 }
 
+
+/* Navbar
+------------------------- */
+.navbar-inner {
+background-color: #333;
+background-image: -moz-linear-gradient(top, #454545, #232323);
+background-image: -webkit-linear-gradient(top, #454545, #232323)
+background-image: -o-linear-gradient(top, #454545, #232323);
+background-image: linear-gradient(to bottom, #454545, #232323);
+background-repeat: repeat-x;
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff454545', endColorstr='#ff232323', GradientType=0);
+border: 1px solid #d4d4d4;
+}
+.navbar .nav > li > a{
+color:#eee;
+text-shadow: 0 1px 0 #ffffff;
+}
+
 /* Subhead (other pages)
 ------------------------- */
 .subhead {
