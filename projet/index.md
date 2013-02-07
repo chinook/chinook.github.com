@@ -6,7 +6,12 @@ title: Le Chinook
 Le projet
 =========
 
-le chinook blablabla
+Concevoir un **véhicule à propulsion éolienne** ayant la capacité de remonter un vent de face:
+telle est la mission des membres du club scientifique Chinook ETS.
+
+C’est dans le but d’atteindre la plus grande efficacité énergétique possible qu’est développée
+la voiture monoplace, et ce, dans l’optique de participer à la compétition internationale
+Racing Aeolus, qui se tient annuellement aux Pays-Bas.
 
 Notre mission
 =============
