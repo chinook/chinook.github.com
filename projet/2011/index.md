@@ -14,13 +14,12 @@ L'équipe du Chinook 1
 Les commanditaires du Chinook 1
 ===============================
 
-PLATINE
--------
+### PLATINE
+
 
 - École de technologie supérieure
 
-OR
---
+### OR
 
 - Polymères Technologies
 - RPM Développement Durable
@@ -33,8 +32,7 @@ OR
 - Campbell
 - JB Martin
 
-BRONZE
-------
+### BRONZE
 
 - COOP ÉTS
 - EL Cargo
