@@ -2,9 +2,19 @@
 layout: projet
 title: L'équipe
 ---
-<ul>
-  {% for item in site.categories.team2013 %}
-  <li>{{ post.title }}
-  </li>
+<div class="row">
+  {% for page in site.pages %}
+    {% for tag in page.tags %}
+    {% if tag == "team2013" %}
+    <div class="span4">
+
+    {% if page.picture %}
+    <img width="200px" src="{{ page.picture}}"/>
+    {% endif %}
+    <p class="lead">{{ page.title }}</p>
+    <p> {{page.subtitle}}</p>
+  </div>
+    {% endif %}
+    {% endfor %}
   {% endfor %}
-</ul>
+</div>
