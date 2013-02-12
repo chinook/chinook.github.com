@@ -4,10 +4,20 @@ layout: master
 ---
 
 <h1>Nouvelles</h1>
-<ul>
   {% for post in site.posts %}
   {% if post.category != 'project' %}
-  <li><a href="{{ post.url }}">{{ post.title }} - le {{ post.date | date_to_string }}</a></li>
+  <div class="row">
+    <div class="span12">
+      {% if post.heading %}
+      <img src="{{ post.heading }}" />
+      {% endif %}
+      <a href="{{ post.url }}"><p class="lead">{{ post.title }}<small class="muted"> le {{ post.date | date_to_string }}</small><p></a>
+      <p>
+      {{ post.content | truncatewords:40}}
+      </p>
+      <hr/>
+      <a href="{{ post.url }}"> plus >>> </a>
+   </div>
+  </div>
   {% endif %}
   {% endfor %}
-</ul>
