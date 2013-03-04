@@ -1,9 +1,8 @@
 ---
 tags:
  - team2013
-title: Hugo Brunet
+title: Amaury Laine
 subtitle: Électrique
-picture: pictures/stjean-pa.png
 ---
 
 yupyup

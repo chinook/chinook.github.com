@@ -3,7 +3,7 @@ tags:
  - team2013
 title: Pierre-Olivier Fecteau
 subtitle: Mécanique, transmission
-picture: pictures/stjean-pa.png
+picture: pictures/pierre-olivier_fecteau.png
 ---
 
 yupyup

@@ -3,7 +3,7 @@ tags:
  - team2013
 title: Julien Lachance
 subtitle: Mécanique
-picture: pictures/stjean-pa.png
+picture: pictures/julien_lachance.png
 ---
 
 yupyup
