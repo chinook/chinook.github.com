@@ -2,7 +2,11 @@ body {
   font-family: "Quattrocento Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-
+.brand{
+background: url("/assets/img/logo.png") no-repeat left;
+text-indent: -3333px;
+width: 100px;
+}
 .jumbotron {
   position: relative;
   padding: 40px 0;
