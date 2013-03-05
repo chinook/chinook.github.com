@@ -1,8 +1,8 @@
 ---
 tags:
  - team2013
-title: Antoiny Lemire
-subtitle: Capitaine, Hub
+title: Antony Lemire
+subtitle: Mécanique
 picture: pictures/antony_lemire.png
 ---
 
