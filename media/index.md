@@ -3,7 +3,7 @@ title: Multimedia
 layout: master
 ---
 
-## Vidéo officiel de la compétition
+## Vidéo officiel de la compétition 2012
 
 <div style="width:640px;margin:0 auto;">
   <!-- enlever allow fullscreen si vous copier de youtube (le fullscreen marche pareil, ça fuck juste pas) -->
