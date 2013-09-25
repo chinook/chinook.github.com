@@ -1,6 +1,86 @@
-﻿---
-layout: master
----
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title> {{ page.title }}</title>
+
+    <link href='http://fonts.googleapis.com/css?family=Quattrocento+Sans:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href="/assets/css/bootstrap.css" rel="stylesheet">
+    <link href="/assets/css/chinook.css" rel="stylesheet">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!-- Twitter Cards for the win --> 
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@chinookets">
+    <meta name="twitter:creator" content="@chinookets">
+    <meta name="twitter:url" content="http://chinookets.com{{page.url}}">
+    <meta name="twitter:title" content="{{ page.title }}">
+    <meta name="twitter:description" content="asddd">
+    <!-- :( end of twitter card -->
+
+    <!-- Facebook's open-graph ... why twitter and facebook didn't talk together-->
+    <meta property="og:title" content="{{ page.title }}"/>
+    <meta property="og:type" content="university"/>
+    <meta property="og:url"
+    content="http://chinookets.com{{page.url}}">
+    <meta property="og:image"
+    content="http://ia.media-imdb.com/rock.jpg"/>
+    <meta property="og:site_name"
+    content="Chinook"/>
+    <meta property="fb:admins"
+    content="@chinookets"/>
+    <meta property="og:description"
+    content="Le véhicule éolien de l'ÉTS"/>
+    <!-- end of open-graph -->
+  </head>
+
+  <body>
+  <!-- facebook -->
+  <div id="fb-root"></div>
+
+    <div class="navbar navbar-static-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" class="brand">Chinook</a>
+          <div class="nav-collapse collapse">        
+            <ul class="nav">
+              <li><a href="/">Nouvelles</a></li>
+              <li><a href="/projet">Le Chinook</a></li>
+              <li><a href="/media">Multimedia</a></li>
+              <li><a href="/contact">Contact</a></li>
+              <li><a href="/commanditaires">Commenditaires</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="jumbotron subhead">
+      <div class="container">
+        <h1>{{ page.title }}</h1>
+      </div>
+    </div>
+    <div class="container">
+      <hr/>
+      {{ content }}
+    </div>  
+
+    <!-- Thoses scripts -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script src="/assets/js/bootstrap.min.js"></script> 
+    <script>  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/fr_CA/all.js#xfbml=1&appId=529617557086153";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));</script> 
+  </body>  
+</html>
 
 <div class="row">
     <div class="span3">
