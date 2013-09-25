@@ -1,5 +1,5 @@
 ---
-layout: master
+layout: projet
 title: Le Chinook
 ---
 
