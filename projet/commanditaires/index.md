@@ -8,7 +8,9 @@ title: Commanditaires
 
 Platine
 ==
-Borea Construction
+
+<a href="boreaconstruction.com/fr/">
+<img borders="0" src="http://www.cad-jobs.ca/photo_view_logo_big.php?employer=285" alt="BoreaConstruction"></a>
 
 
 
