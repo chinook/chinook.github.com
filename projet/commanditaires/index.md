@@ -52,7 +52,7 @@ Acier Tag
 
 CMC Electronique
 
-Guru Energy Drinks
+Digikey
 
 Hype
 
@@ -64,8 +64,12 @@ Mirazed
 
 Nanuk Cases
 
+Neutronics
+
 PBI Solidworks
 
 Soucys
 
 Soudure PMC
+
+Weidmueller
