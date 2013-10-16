@@ -10,7 +10,7 @@ Platine
 ==
 
 <a href="http://www.boreaconstruction.com">
-<img borders="0" src="http://www.cad-jobs.ca/photo_view_logo_big.php?employer=285" alt="BoreaConstruction"></a>
+<img borders="0" src="http://i.imgur.com/1fENIxv.png" alt="BoreaConstruction"></a>
 
 
 
