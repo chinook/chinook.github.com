@@ -16,15 +16,26 @@ Platine
 
 Or
 ==
-ETS
 
-Gaz Metro
 
-Guru Cycles
+<img borders="0" src="http://www.etsmtl.ca/ETS/media/Prive/Accueil/logo_ets.png" hspace="175" alt="ETS">
 
-Polymeres Technologies
 
-Solaxis
+
+<img borders="0" src="http://igienico.ca/clients/logo_client_gazmetro.jpg" hspace="295" alt="GazMetro">
+
+
+
+<img borders="0" src="http://momentcyclesport.com/images/library/site/guru_banner2_bg_08_p.jpg" hspace="195" width="450" height="85" alt="GuruCycles">
+
+
+
+<img borders="0" src="http://repertoiremci.com/files/formidable/logo2-200x140.png" hspace= "325" alt="PolymeresTechnologies">
+
+
+
+<img borders="0" src="http://mecano.gme.usherbrooke.ca/~vue/images/logo_commanditaires/logo%20solaxis.PNG" hspace="180" width="450" height="155" alt="Solaxis">
+
 
 
 Argent
