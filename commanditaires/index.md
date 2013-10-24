@@ -3,7 +3,7 @@ title: Commanditaires
 layout: master
 ---
 
-## Commendaitres
+## Commandaitres
 
 (Section en développement)
 Merci aux commanditaires
