@@ -56,6 +56,7 @@ Lockheed Martin
 
 SKF
 
+LaboCircuit
 
 Bronze
 ======
@@ -66,8 +67,6 @@ CMC Electronique
 Digikey
 
 Hype
-
-LaboCircuit
 
 LM WindPower
 
