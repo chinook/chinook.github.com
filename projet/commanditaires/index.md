@@ -52,11 +52,12 @@ Fonds de developpement ETS
 
 Hutchinson
 
+LaboCircuit
+
 Lockheed Martin
 
 SKF
 
-LaboCircuit
 
 Bronze
 ======
