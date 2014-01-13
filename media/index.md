@@ -3,7 +3,7 @@ title: Multimedia
 layout: master
 ---
 
-## Vidéo officiel de la compétition 2012
+## Vidéo officiel de la compétition 2013
 
 <div style="width:640px;margin:0 auto;">
   <!-- enlever allow fullscreen si vous copier de youtube (le fullscreen marche pareil, ça fuck juste pas) -->
@@ -11,6 +11,8 @@ layout: master
 </div>
 ## Autres Vidéos
 
+
+- [Chinook 2 - Racing Aeolus 2012](http://youtu.be/U2tygIzM7Fw)
 - [Chinook 2 - Déluge a Racing Aeolus 2012](http://youtu.be/dAE95Y5__Ss)
 - [Chinook 2 - Premiers essais de transmission et embrayage; Racing Aeolus 2012](http://youtu.be/JGRe0Wwn57E)
 - [Chinook 2 - Racing Aeolus 2012 Jour 6](http://youtu.be/XXeyAKOYCKg)
