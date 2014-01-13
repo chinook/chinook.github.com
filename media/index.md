@@ -7,7 +7,7 @@ layout: master
 
 <div style="width:640px;margin:0 auto;">
   <!-- enlever allow fullscreen si vous copier de youtube (le fullscreen marche pareil, ça fuck juste pas) -->
-  <iframe width="640" height="360" src="http://www.youtube.com/embed/U2tygIzM7Fw" frameborder="0" > </iframe>
+  <iframe width="640" height="360" src="http://www.youtube.com/embed/B507yxnqjKI" frameborder="0" > </iframe>
 </div>
 ## Autres Vidéos
 
