@@ -3,7 +3,7 @@ layout: projet
 title: 2012 - Chinook 2
 ---
 
-Le chinook 2
+Le Chinook 2
 ============
 
 ![chinook2](pictures/chinook2.jpg)
