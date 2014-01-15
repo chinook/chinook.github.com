@@ -1,4 +1,4 @@
-﻿---
+---
 layout: projet
 title: 2013 - Chinook 3
 ---
