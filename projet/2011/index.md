@@ -10,21 +10,21 @@ Le Chinook 1
 
 L'équipe du Chinook 1
 =====================
-Julien Deschamps-Francoeur
-Olivier Laurin
-Patrice Gouin O'shaughnessey
-Cedric Somers
-David Khouya
-Louis-Charles Trudeau
-Pierre-Luc Mailloux
-Guillaume Cyr
-Gabriel Lemay-Gosselin
-Alexandre Lacombe
-Nicolas McCrae
-Alexandre Caron
-Antoine Letarte
-Kéven Boutin
-Vincent Caux-Brisebois
+- Julien Deschamps-Francoeur
+- Olivier Laurin
+- Patrice Gouin O'Shaughnessey
+- Cedric Somers
+- David Khouya
+- Louis-Charles Trudeau
+- Pierre-Luc Mailloux
+- Guillaume Cyr
+- Gabriel Lemay-Gosselin
+- Alexandre Lacombe
+- Nicolas McCrae
+- Alexandre Caron
+- Antoine Letarte
+- Kéven Boutin
+- Vincent Caux-Brisebois
 
 
 Les commanditaires du Chinook 1
