@@ -1,4 +1,4 @@
----
+﻿---
 layout: projet
 title: 2011 - Chinook 1
 ---
@@ -6,9 +6,25 @@ title: 2011 - Chinook 1
 Le Chinook 1
 ============
 
+![chinook1](pictures/chinook1.jpg)
 
 L'équipe du Chinook 1
 =====================
+Julien Deschamps-Francoeur
+Olivier Laurin
+Patrice Gouin O'shaughnessey
+Cedric Somers
+David Khouya
+Louis-Charles Trudeau
+Pierre-Luc Mailloux
+Guillaume Cyr
+Gabriel Lemay-Gosselin
+Alexandre Lacombe
+Nicolas McCrae
+Alexandre Caron
+Antoine Letarte
+Kéven Boutin
+Vincent Caux-Brisebois
 
 
 Les commanditaires du Chinook 1
