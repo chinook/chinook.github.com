@@ -9,8 +9,8 @@ title: Commanditaires
 Platine
 ==
 
-<a href="http://www.boreaconstruction.com">
-<img borders="0" src="http://i.imgur.com/1fENIxv.png" alt="BoreaConstruction"></a>
+<a href="http://www.gazmetro.com">
+<img borders="0" src="http://www.regionthetford.com/fichiersUpload/actualites/archives/20110418134925Logo-Gaz-Metro_FR_RGB.jpg" alt="GazMetro"></a>
 
 
 
@@ -22,7 +22,7 @@ Or
 
 
 
-<img borders="0" src="http://igienico.ca/clients/logo_client_gazmetro.jpg" hspace="295" alt="GazMetro">
+<img borders="0" src="http://i.imgur.com/1fENIxv.png" hspace="195" width="450" height="150" alt="BoreaConstruction">
 
 
 
@@ -42,6 +42,8 @@ Argent
 ======
 AÉÉTS
 
+Altium
+
 Cascades
 
 CDadapco
@@ -51,6 +53,8 @@ COOP ÉTS
 Fonds de developpement ETS
 
 Hutchinson
+
+Labo Circuits
 
 Lockheed Martin
 
@@ -67,8 +71,6 @@ Digikey
 
 Hype
 
-LaboCircuit
-
 LM WindPower
 
 Mirazed
@@ -83,4 +85,4 @@ Soucys
 
 Soudure PMC
 
-Weidmueller
+Weidmüller

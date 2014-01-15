@@ -36,6 +36,3 @@ L'équipe du Chinook 2
 - Alexandre Lupien
 - Simon LeBlanc
 
-Les commanditaires du Chinook 2
-==================
-
