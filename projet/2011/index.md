@@ -1,4 +1,4 @@
-﻿---
+---
 layout: projet
 title: 2011 - Chinook 1
 ---
