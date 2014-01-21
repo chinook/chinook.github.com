@@ -34,8 +34,10 @@ Or
 <!--<img borders="0" src="http://momentcyclesport.com/images/library/site/guru_banner2_bg_08_p.jpg" hspace="195" width="450" height="85" alt="GuruCycles">-->
 
 
-
-<img borders="0" src="http://repertoiremci.com/files/formidable/logo2-200x140.png" hspace= "325" alt="PolymeresTechnologies">
+<div align="center" style="margin-left:auto;margin-right:auto;margin-bottom:20px;position:relative;float:left;display:block;width:180px;height:70px;vertical-align:middle;text-align:center">
+<img src="http://momentcyclesport.com/images/library/site/guru_banner2_bg_08_p.jpg">
+</div>
+<!--<img borders="0" src="http://repertoiremci.com/files/formidable/logo2-200x140.png" hspace= "325" alt="PolymeresTechnologies">-->
 
 
 
@@ -45,49 +47,53 @@ Or
 
 Argent
 ======
-AÉÉTS
+<ul>
+<li>AÉÉTS</li>
 
-Altium
+<li>Altium</li>
 
-Cascades
+<li>Cascades</li>
 
-CDadapco
+<li>CDadapco</li>
 
-COOP ÉTS
+<li>COOP ÉTS</li>
 
-Fonds de developpement ETS
+<li>Fonds de developpement ETS</li>
 
-Hutchinson
+<li>Hutchinson</li>
 
-Labo Circuits
+<li>Labo Circuits</li>
 
-Lockheed Martin
+<li>Lockheed Martin</li>
 
-SKF
+<li>SKF</li>
+</ul>
 
 
 Bronze
 ======
-Acier Tag
+<ul>
+<li>Acier Tag</li>
 
-CMC Electronique
+<li>CMC Electronique</li>
 
-Digikey
+<li>Digikey</li>
 
-Hype
+<li>Hype</li>
 
-LM WindPower
+<li>LM WindPower</li>
 
-Mirazed
+<li>Mirazed</li>
 
-Nanuk Cases
+<li>Nanuk Cases</li>
 
-Neutronics
+<li>Neutronics</li>
 
-PBI Solidworks
+<li>PBI Solidworks</li>
 
-Soucys
+<li>Soucys</li>
 
-Soudure PMC
+<li>Soudure PMC</li>
 
-Weidmüller
+<li>Weidmüller</li>
+</ul>
