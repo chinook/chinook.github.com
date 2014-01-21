@@ -36,6 +36,7 @@ Autres
 =============
 <ul>
 <li>Salon des innovations technologiques de Montréal, 14 février 2013</li>
+<li>CANWEA 2013</li>
 <li>CANWEA 2012</li>
 <li>Gala Forces Avenir 2012</li>
 </ul>
