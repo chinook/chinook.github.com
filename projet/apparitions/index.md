@@ -22,7 +22,7 @@ Journaux
 <ul>
 <li><a href="http://www.dichtbij.nl/noordkop/regio/artikel/2975201/racing-aeolus-den-helder-hoopt-op-winderige-zeedijk-.aspx">Helders Weekblad, quotidien de Hollande, 14 août 2013</a></li>
 <li><a href="http://www.courrierahuntsic.com/Actualites/Vos-nouvelles/2012-08-16/article-3054022/Ingenieurs-dans-le-vent/1">Courrier Ahuntsic, 16 août 2012</a></li>
-<li><a href="http://montrealcampus.ca/2011/08/transporte-par-le-vent-3/">Montréal Campus</a></li>
+<li><a href="http://montrealcampus.ca/2011/08/transporte-par-le-vent-3/">Montréal Campus, 30 août 2011</a></li>
 </ul>
 <br>
 Télévision
