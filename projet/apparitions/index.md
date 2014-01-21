@@ -10,10 +10,11 @@ Grâce à ces nombreux exploits, le Chinook a, au travers les compétitions et l
 expositions, su attirer l'attention des médias. Voici les quelques apparitions 
 de notre super bolide éolien dans les journaux, magazines et journaux à travers
 le monde!
-
-Magazines
+<br>
+Magazines et articles
 =============
 <ul>
+<li><a href"http://www.vandaag.nl/denhelder/nieuws/article24190483.ece/Windracers-Canada-verbreken-record-in-Den-Helder">Vandaag, site de nouvelles néerlandais, 24 août 2013</a></li>
 <li>Magazine scientifiques pour enfants **explotechno** édition Février 2014, page 13</li>
 </ul>
 <br>
@@ -38,5 +39,6 @@ Autres
 <li>Salon des innovations technologiques de Montréal, 14 février 2013</li>
 <li>CANWEA 2013</li>
 <li>CANWEA 2012</li>
+<li>Colloque de l'AQPER 2012</li>
 <li>Gala Forces Avenir 2012</li>
 </ul>
