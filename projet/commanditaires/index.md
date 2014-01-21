@@ -35,13 +35,15 @@ Or
 
 
 <div align="center" style="margin-left:auto;margin-right:auto;margin-bottom:20px;position:relative;float:left;display:block;width:180px;height:70px;vertical-align:middle;text-align:center">
-<img src="http://momentcyclesport.com/images/library/site/guru_banner2_bg_08_p.jpg">
+<img src="http://repertoiremci.com/files/formidable/logo2-200x140.png">
 </div>
 <!--<img borders="0" src="http://repertoiremci.com/files/formidable/logo2-200x140.png" hspace= "325" alt="PolymeresTechnologies">-->
 
 
-
-<img borders="0" src="http://mecano.gme.usherbrooke.ca/~vue/images/logo_commanditaires/logo%20solaxis.PNG" hspace="180" width="450" height="155" alt="Solaxis">
+<div align="center" style="margin-left:auto;margin-right:auto;margin-bottom:20px;position:relative;float:left;display:block;width:180px;height:70px;vertical-align:middle;text-align:center">
+<img src="http://mecano.gme.usherbrooke.ca/~vue/images/logo_commanditaires/logo%20solaxis.PNG">
+</div>
+<!--<img borders="0" src="http://mecano.gme.usherbrooke.ca/~vue/images/logo_commanditaires/logo%20solaxis.PNG" hspace="180" width="450" height="155" alt="Solaxis">-->
 
 
 
