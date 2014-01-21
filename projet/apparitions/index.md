@@ -13,9 +13,10 @@ le monde!
 
 Magazines
 =============
-
-Magazine scientifiques pour enfants **explotechno** édition Février 2014, page 13
-
+<ul>
+<li>Magazine scientifiques pour enfants **explotechno** édition Février 2014, page 13</li>
+</ul>
+<br>
 Journaux
 =============
 <ul>
@@ -23,14 +24,18 @@ Journaux
 <li><a href="http://www.courrierahuntsic.com/Actualites/Vos-nouvelles/2012-08-16/article-3054022/Ingenieurs-dans-le-vent/1">Courrier Ahuntsic, 16 août 2012</a></li>
 <li><a href="http://montrealcampus.ca/2011/08/transporte-par-le-vent-3/">Montréal Campus</a></li>
 </ul>
-
+<br>
 Télévision
 =============
-La Revanche des Nerdz, ZTélé, 12 novembre 2012
-Le Téléjournal de Québec, 16 février 2012
-
+<ul>
+<li>La Revanche des Nerdz, ZTélé, 12 novembre 2012</li>
+<li>Le Téléjournal de Québec, 16 février 2012</li>
+</ul>
+<br>
 Autres
 =============
-Salon des innovations technologiquesd Montréal, 14 février 2013
-CANWEA 2012
-Gala Forces Avenir 2012
+<ul>
+<li>Salon des innovations technologiques de Montréal, 14 février 2013</li>
+<li>CANWEA 2012</li>
+<li>Gala Forces Avenir 2012</li>
+</ul>
