@@ -19,7 +19,7 @@ Magazines et articles
 
 - Magazine scientifiques pour enfants **explotechno** édition Février 2014, page 13
 
-<br>
+
 Journaux
 =============
 
@@ -27,14 +27,14 @@ Journaux
 - <a href="http://www.courrierahuntsic.com/Actualites/Vos-nouvelles/2012-08-16/article-3054022/Ingenieurs-dans-le-vent/1">Courrier Ahuntsic, 16 août 2012</a>
 - <a href="http://montrealcampus.ca/2011/08/transporte-par-le-vent-3/">Montréal Campus, 30 août 2011</a>
 
-<br>
+
 Télévision
 =============
 
 - La Revanche des Nerdz, ZTélé, 12 novembre 2012
 - Le Téléjournal de Québec, 16 février 2012
 
-<br>
+
 Autres
 =============
 
