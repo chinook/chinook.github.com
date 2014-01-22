@@ -14,33 +14,33 @@ le monde!
 Magazines et articles
 =============
 
-- <a href"http://www.vandaag.nl/denhelder/nieuws/article24190483.ece/Windracers-Canada-verbreken-record-in-Den-Helder">Vandaag, site de nouvelles néerlandais, 24 août 2013
-</a>
+- [Vandaag, site de nouvelles néerlandais, 24 août 2013](http://www.vandaag.nl/denhelder/nieuws/article24190483.ece/Windracers-Canada-verbreken-record-in-Den-Helder)
 
-- Magazine scientifiques pour enfants **explotechno** édition Février 2014, page 13
+
+- [Magazine scientifiques pour enfants **explotechno** édition Février 2014, page 13]
 
 
 Journaux
 =============
 
-- <a href="http://www.dichtbij.nl/noordkop/regio/artikel/2975201/racing-aeolus-den-helder-hoopt-op-winderige-zeedijk-.aspx">Helders Weekblad, quotidien de Hollande, 14 août 2013</a>
-- <a href="http://www.courrierahuntsic.com/Actualites/Vos-nouvelles/2012-08-16/article-3054022/Ingenieurs-dans-le-vent/1">Courrier Ahuntsic, 16 août 2012</a>
-- <a href="http://montrealcampus.ca/2011/08/transporte-par-le-vent-3/">Montréal Campus, 30 août 2011</a>
+- [Helders Weekblad, quotidien de Hollande, 14 août 2013](http://www.dichtbij.nl/noordkop/regio/artikel/2975201/racing-aeolus-den-helder-hoopt-op-winderige-zeedijk-.aspx)
+- [Courrier Ahuntsic, 16 août 2012](http://www.courrierahuntsic.com/Actualites/Vos-nouvelles/2012-08-16/article-3054022/Ingenieurs-dans-le-vent/1")
+- [Montréal Campus, 30 août 2011](http://montrealcampus.ca/2011/08/transporte-par-le-vent-3/)
 
 
 Télévision
 =============
 
-- La Revanche des Nerdz, ZTélé, 12 novembre 2012
-- Le Téléjournal de Québec, 16 février 2012
+- [La Revanche des Nerdz, ZTélé, 12 novembre 2012]
+- [Le Téléjournal de Québec, 16 février 2012]
 
 
 Autres
 =============
 
-- Salon des innovations technologiques de Montréal, 14 février 2013</li>
-- CANWEA 2013</li>
-- CANWEA 2012</li>
-- Colloque de l'AQPER 2012</li>
-- Gala Forces Avenir 2012</li>
+- [Salon des innovations technologiques de Montréal, 14 février 2013]
+- [CANWEA 2013]
+- [CANWEA 2012]
+- [Colloque de l'AQPER 2012]
+- [Gala Forces Avenir 2012]
 
