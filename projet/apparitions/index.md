@@ -17,8 +17,9 @@ Magazines et articles
 - [Vandaag, site de nouvelles néerlandais, 24 août 2013](http://www.vandaag.nl/denhelder/nieuws/article24190483.ece/Windracers-Canada-verbreken-record-in-Den-Helder)
 
 
-- [Magazine scientifiques pour enfants **explotechno** édition Février 2014, page 13]
+- Magazine scientifique pour enfants **explotechno** édition Février 2014, page 13
 
+- Québec Science édition décembre 2011, page 15-16
 
 Journaux
 =============
@@ -31,16 +32,18 @@ Journaux
 Télévision
 =============
 
-- [La Revanche des Nerdz, ZTélé, 12 novembre 2012]
-- [Le Téléjournal de Québec, 16 février 2012]
+- La Revanche des Nerdz, ZTélé, 12 novembre 2012
+- Le Téléjournal de Québec, 16 février 2012
 
 
 Autres
 =============
 
-- [Salon des innovations technologiques de Montréal, 14 février 2013]
-- [CANWEA 2013]
-- [CANWEA 2012]
-- [Colloque de l'AQPER 2012]
-- [Gala Forces Avenir 2012]
+- Salon Carrière Formation de Quebec, 23 au 26 octobre 2013
+- Salon des innovations technologiques de Montréal, 14 février 2013
+- CANWEA 2013
+- Colloque de l'AQPER 2013
+- CANWEA 2012
+- Colloque de l'AQPER 2012
+- Gala Forces Avenir 2012
 
