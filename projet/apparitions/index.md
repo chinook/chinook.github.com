@@ -11,6 +11,7 @@ expositions, su attirer l'attention des médias. Voici les quelques apparitions
 de notre super bolide éolien dans les journaux, magazines et journaux à travers
 le monde!
 <br>
+<br>
 Magazines et articles
 =============
 
