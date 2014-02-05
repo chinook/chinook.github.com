@@ -41,7 +41,7 @@ Or
 <!--<img borders="0" src="http://repertoiremci.com/files/formidable/logo2-200x140.png" hspace= "325" alt="PolymeresTechnologies">-->
 
 
-<div align="center" style="margin-left:auto;margin-right:auto;margin-bottom:20px;position:relative;display:block;width:180px;height:70px;vertical-align:middle;text-align:center">
+<div align="center" style="margin-left:auto;margin-right:auto;margin-bottom:20px;position:relative;float:left;clear:both;display:block;width:180px;height:70px;vertical-align:middle;text-align:center">
 <img src="http://mecano.gme.usherbrooke.ca/~vue/images/logo_commanditaires/logo%20solaxis.PNG">
 </div>
 <!--<img borders="0" src="http://mecano.gme.usherbrooke.ca/~vue/images/logo_commanditaires/logo%20solaxis.PNG" hspace="180" width="450" height="155" alt="Solaxis">-->
