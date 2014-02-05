@@ -45,7 +45,7 @@ Or
 </div>
 <!--<img borders="0" src="http://mecano.gme.usherbrooke.ca/~vue/images/logo_commanditaires/logo%20solaxis.PNG" hspace="180" width="450" height="155" alt="Solaxis">-->
 
-
+<br>
 
 Argent
 ======
@@ -61,6 +61,8 @@ Argent
 <li>COOP ÉTS</li>
 
 <li>Fonds de developpement ETS</li>
+
+<li>Futek</li>
 
 <li>Hutchinson</li>
 
