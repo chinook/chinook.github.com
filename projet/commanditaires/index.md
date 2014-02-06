@@ -35,7 +35,7 @@ Or
 <!--<img borders="0" src="http://momentcyclesport.com/images/library/site/guru_banner2_bg_08_p.jpg" hspace="195" width="450" height="85" alt="GuruCycles">-->
 
 
-<div align="center" style="margin-left:auto;margin-right:auto;margin-bottom:20px;position:relative;display:block;width:300px;height:60px;vertical-align:middle;text-align:center">
+<div align="center" style="margin-left:auto;margin-right:auto;margin-bottom:20px;position:relative;display:block;width:300px;vertical-align:middle;text-align:center">
 <img src="http://repertoiremci.com/files/formidable/logo2-200x140.png">
 </div>
 <!--<img borders="0" src="http://repertoiremci.com/files/formidable/logo2-200x140.png" hspace= "325" alt="PolymeresTechnologies">-->
