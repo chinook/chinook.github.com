@@ -30,7 +30,7 @@ Or
 
 
 <div align="center" style="margin-left:auto;margin-right:auto;margin-bottom:20px;position:relative;float:left;display:block;width:180px;height:70px;vertical-align:middle;text-align:center">
-<img src="http://momentcyclesport.com/images/library/site/guru_banner2_bg_08_p.jpg">
+<img src="http://www.pacificmultisport.ca/img/logos/guru.png">
 </div>
 <!--<img borders="0" src="http://momentcyclesport.com/images/library/site/guru_banner2_bg_08_p.jpg" hspace="195" width="450" height="85" alt="GuruCycles">-->
 
