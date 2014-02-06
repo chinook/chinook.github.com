@@ -22,26 +22,26 @@ Or
 </div>
 
 
-<div align="center" style="margin-left:auto;margin-right:auto;margin-bottom:20px;position:relative;float:left;display:block;width:180px;height:70px;vertical-align:middle;text-align:center">
+<div align="center" style="margin-left:auto;margin-right:auto;margin-bottom:20px;position:relative;float:left;display:block;width:300px;height:70px;vertical-align:middle;text-align:center">
 <img src="http://i.imgur.com/1fENIxv.png">
 </div>
 <!--<img borders="0" src="http://i.imgur.com/1fENIxv.png" hspace="195" width="450" height="150" alt="BoreaConstruction">
 -->
 
 
-<div align="center" style="margin-left:auto;margin-right:auto;margin-bottom:20px;position:relative;float:left;display:block;width:180px;height:70px;vertical-align:middle;text-align:center">
+<div align="center" style="margin-left:auto;margin-right:auto;margin-bottom:20px;position:relative;float:left;display:block;width:300px;height:70px;vertical-align:middle;text-align:center">
 <img src="http://www.clubaventuresherbrooke.com/blog/files/guru-cycles.png">
 </div>
 <!--<img borders="0" src="http://momentcyclesport.com/images/library/site/guru_banner2_bg_08_p.jpg" hspace="195" width="450" height="85" alt="GuruCycles">-->
 
 
-<div align="center" style="margin-left:auto;margin-right:auto;margin-bottom:20px;position:relative;float:left;display:block;width:150px;height:60px;vertical-align:middle;text-align:center">
+<div align="center" style="margin-left:auto;margin-right:auto;margin-bottom:20px;position:relative;float:left;display:block;width:300px;height:60px;vertical-align:middle;text-align:center">
 <img src="http://repertoiremci.com/files/formidable/logo2-200x140.png">
 </div>
 <!--<img borders="0" src="http://repertoiremci.com/files/formidable/logo2-200x140.png" hspace= "325" alt="PolymeresTechnologies">-->
 
 
-<div align="center" style="margin-left:auto;margin-right:auto;margin-bottom:20px;position:relative;float:left;display:block;width:180px;height:70px;vertical-align:middle;text-align:center">
+<div align="center" style="margin-left:auto;margin-right:auto;margin-bottom:20px;position:relative;float:left;display:block;width:300px;height:70px;vertical-align:middle;text-align:center">
 <img src="http://mecano.gme.usherbrooke.ca/~vue/images/logo_commanditaires/logo%20solaxis.PNG">
 </div>
 <!--<img borders="0" src="http://mecano.gme.usherbrooke.ca/~vue/images/logo_commanditaires/logo%20solaxis.PNG" hspace="180" width="450" height="155" alt="Solaxis">-->
