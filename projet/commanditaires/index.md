@@ -18,7 +18,7 @@ Or
 ==
 
 <div align="center" style="margin-left:auto;margin-right:auto;margin-bottom:20px;position:relative;display:block;width:300px;vertical-align:middle;text-align:center">
-<img src="http://www.etsmtl.ca/ETS/media/Prive/Accueil/logo_ets.png">
+<img src="http://biomimicryqi.org/wp-content/uploads/2013/09/logo_ets.jpg">
 </div>
 
 
