@@ -45,6 +45,11 @@ Or
 <img src="http://mecano.gme.usherbrooke.ca/~vue/images/logo_commanditaires/logo%20solaxis.PNG">
 </div>
 <!--<img borders="0" src="http://mecano.gme.usherbrooke.ca/~vue/images/logo_commanditaires/logo%20solaxis.PNG" hspace="180" width="450" height="155" alt="Solaxis">-->
+
+<div align="center" style="margin-left:auto;margin-right:auto;margin-bottom:20px;position:relative;display:block;width:300px;vertical-align:middle;text-align:center">
+<img src="http://ww1.prweb.com/prfiles/2007/11/13/255770/blacklogo2.gif">
+</div>
+
 <div style="clear: both;"> </div>
 
 <br>
@@ -63,8 +68,6 @@ Argent
 <li>COOP ÉTS</li>
 
 <li>Fonds de developpement ETS</li>
-
-<li>Futek</li>
 
 <li>Hutchinson</li>
 
