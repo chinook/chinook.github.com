@@ -32,10 +32,10 @@ Or
 <img src="http://www.etsmtl.ca/ETS/media/ImagesETS/Reseau/Logo/fdetsweb_1.jpg">
 </div>
 
-
+<a href="http://www.futek.com">
 <div align="center" style="margin-left:auto;margin-right:auto;margin-bottom:20px;position:relative;display:block;width:300px;vertical-align:middle;text-align:center">
 <img src="http://ww1.prweb.com/prfiles/2007/11/13/255770/blacklogo2.gif">
-</div>
+</div></a>
 
 
 <div align="center" style="margin-left:auto;margin-right:auto;margin-bottom:20px;position:relative;display:block;width:300px;vertical-align:middle;text-align:center">
