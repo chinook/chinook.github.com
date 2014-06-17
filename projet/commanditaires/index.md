@@ -77,5 +77,9 @@ Bronze
 
 <li>Igus</li>
 
+<li>L'École des Métiers de l'Équipement de Montréal</li>
+
 <li>Mirazed</li>
+
+<li>Neutronics</li>
 </ul>
