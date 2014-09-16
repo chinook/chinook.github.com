@@ -40,31 +40,32 @@ layout: master
     </script>
     <!-- Jssor Slider Begin -->
     <!-- You can move inline styles to css file or css block. -->
-    <div ccID="2543" id="slider1_container" style="position: relative; top: 0px; left: 0px; width: 600px;
+    <div ccID="2543" id="slider1_container" style="position: relative; top: 0px; left: 0px; width: 940px;
         height: 300px; ">
 
         <!-- Slides Container -->
-        <div ccID="2706" u="slides" style="cursor: move; position: absolute; left: 0px; top: 0px; width: 700px; height: 300px;
+        <div ccID="2706" u="slides" style="cursor: move; position: absolute; left: 0px; top: 0px; width: 940px; height: 300px;
             overflow: hidden;">
             <div ccID="2859">
-				 <img ccID="2871" u="image" src="img/eolienne.PNG" />
-				 <div ccID="2918" u="caption" t="L" style="position: absolute; top: 20px; left: 20px; width: 200px; height: 60px; color: #ffffff; font: caption; font-size: 50px; line-height: 45px;">Le Chinook</div>
+				 <a ccID="2871" href="projet/index.md"><img ccID="2897" u="image" src="img/eolienne.jpg" /></a>
+				 <div ccID="2948" u="caption" t="L" style="position: absolute; top: 20px; left: 20px; width: 200px; height: 60px; color: #ffffff; font: caption; font-size: 50px; line-height: 45px;">Le Chinook</div>
 			</div>
 			
-			<div ccID="3124">
-				 <img ccID="3136" u="image" src="img/equipe.PNG" />
-				 <div ccID="3181" u="caption" t="L" style="position: absolute; top: 20px; left: 20px; width: 200px; height: 50px; color: #ffffff; font: caption; font-size: 50px; line-height: 30px;">L'&eacutequipe</div>
+			<div ccID="3154">
+				 <a ccID="3166" href="projet/equipe/index.html"><img ccID="3201" u="image" src="img/equipe.jpg" /></a>
+				 <div ccID="3250" u="caption" t="L" style="position: absolute; top: 20px; left: 20px; width: 200px; height: 50px; color: #ffffff; font: caption; font-size: 50px; line-height: 30px;">L'&eacutequipe</div>
 			</div>
 			
-            <div ccID="3400">
-				 <img ccID="3412" u="image" src="img/comm.PNG" />
-				 <div ccID="3455" u="caption" t="L" style="position: absolute; top: 20px; left: 20px; width: 200px; height: 30px; color: #ffffff; font: caption; font-size: 50px; line-height: 32px;">Nos commanditaires</div>
+            <div ccID="3469">
+				 <a ccID="3481" href="projet/commanditaires/index.md"><img ccID="3522" u="image" src="img/comm.jpg" /></a>
+				 <div ccID="3569" u="caption" t="L" style="position: absolute; top: 20px; left: 20px; width: 200px; height: 30px; color: #ffffff; font: caption; font-size: 50px; line-height: 32px;">Nos commanditaires</div>
 			</div>
+			
 			
         </div>
         
         <!-- Arrow Navigator Skin Begin -->
-        <style ccID="3745">
+        <style ccID="3864">
             /* jssor slider arrow navigator skin 03 css */
             /*
             .jssora03l              (normal)
@@ -90,18 +91,18 @@ layout: master
             .jssora03rdn { background-position: -303px -33px; }
         </style>
         <!-- Arrow Left -->
-        <span ccID="4895" u="arrowleft" class="jssora03l" style="width: 55px; height: 55px; top: 123px; left: 8px;">
+        <span ccID="5014" u="arrowleft" class="jssora03l" style="width: 55px; height: 55px; top: 123px; left: 8px;">
         </span>
         <!-- Arrow Right -->
-        <span ccID="5048" u="arrowright" class="jssora03r" style="width: 55px; height: 55px; top: 123px; right: -90px">
+        <span ccID="5167" u="arrowright" class="jssora03r" style="width: 55px; height: 55px; top: 123px; right: 8px">
         </span>
         <!-- Arrow Navigator Skin End -->
-        <a ccID="5217" style="display: none" href="http://www.jssor.com">javascript</a>
+        <a ccID="5334" style="display: none" href="http://www.jssor.com">javascript</a>
     </div>
     <!-- Jssor Slider End -->
-<br ccID="5329">
+<br ccID="5446">
 
-<div ccID="5337" class="fb-like-box" 
+<div ccID="5454" class="fb-like-box" 
      data-href="http://www.facebook.com/chinookets" 
       data-show-faces="true" 
       data-width="600"
@@ -109,17 +110,17 @@ layout: master
      data-header="false" style="width:100%"></div>
 {% for post in site.posts %}
   {% if post.category != 'project' %}
-  <div ccID="5622" class="row">
-    <div ccID="5645" class="span12">
+  <div ccID="5739" class="row">
+    <div ccID="5762" class="span12">
       {% if post.heading %}
-      <img ccID="5702" src="{{ post.heading }}" />
+      <img ccID="5819" src="{{ post.heading }}" />
       {% endif %}
-      <a ccID="5761" href="{{ post.url }}"><p ccID="5786" class="lead">{{ post.title }}<small ccID="5818" class="muted"> le {{ post.date | date_to_string }}</small><p ccID="5883"></a>
-      <p ccID="5898">
+      <a ccID="5878" href="{{ post.url }}"><p ccID="5903" class="lead">{{ post.title }}<small ccID="5935" class="muted"> le {{ post.date | date_to_string }}</small><p ccID="6000"></a>
+      <p ccID="6015">
       {{ post.content | truncatewords:40}}
       </p>
-      <hr ccID="5965"/>
-      <a ccID="5978" href="{{ post.url }}"> plus >>> </a>
+      <hr ccID="6082"/>
+      <a ccID="6095" href="{{ post.url }}"> plus >>> </a>
    </div>
   </div>
   {% endif %}
