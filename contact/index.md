@@ -22,6 +22,8 @@ chinook@ens.etsmtl.ca
 
 1100, rue Notre-Dame Ouest
 
+Local A-1748
+
 Montréal (Québec) H3C 1K3
 
-514 396-8800
+514 396-7609
