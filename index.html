@@ -104,26 +104,6 @@ layout: master
 <h3>Vidéo Lancement Chinook 4</h3>
 <iframe width="940" height="529" src="//www.youtube.com/embed/lSbKpKfWgf4" frameborder="0" allowfullscreen></iframe>
 
-<div class="fb-like-box" 
-     data-href="http://www.facebook.com/chinookets" 
-      data-show-faces="true" 
-      data-width="600"
-     data-stream="true" 
-     data-header="false" style="width:100%"></div>
-{% for post in site.posts %}
-  {% if post.category != 'project' %}
-  <div class="row">
-    <div class="span12">
-      {% if post.heading %}
-      <img src="{{ post.heading }}" />
-      {% endif %}
-      <a href="{{ post.url }}"><p class="lead">{{ post.title }}<small class="muted"> le {{ post.date | date_to_string }}</small><p></a>
-      <p>
-      {{ post.content | truncatewords:40}}
-      </p>
-      <hr/>
-      <a href="{{ post.url }}"> plus >>> </a>
-   </div>
-  </div>
+
   {% endif %}
   {% endfor %}
