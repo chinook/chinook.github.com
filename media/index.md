@@ -22,6 +22,7 @@ layout: master
 - [Chinook 4 - Lancement](https://www.youtube.com/watch?v=lSbKpKfWgf4)
 
 <br>
+
 - [Chinook 2 - Racing Aeolus 2012](http://youtu.be/U2tygIzM7Fw)
 - [Chinook 2 - Déluge a Racing Aeolus 2012](http://youtu.be/dAE95Y5__Ss)
 - [Chinook 2 - Premiers essais de transmission et embrayage; Racing Aeolus 2012](http://youtu.be/JGRe0Wwn57E)
@@ -35,4 +36,5 @@ layout: master
 - [Chinook 2 - Lancement Chinook 2](http://youtu.be/6CJJtvbwweQ)
 
 <br>
+
 - [Chinook 1 - Vidéo Officiel de la compétition 2011](http://youtu.be/epurS1_khqE)
