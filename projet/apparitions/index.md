@@ -10,7 +10,7 @@ expositions, su attirer l'attention des médias. Voici les quelques apparitions
 de notre super bolide éolien dans les journaux, magazines et journaux à travers
 le monde!
 <br>
-<br>
+
 ## Magazines et articles
 
 - [Vandaag, site de nouvelles néerlandais, 24 août 2013](http://www.vandaag.nl/denhelder/nieuws/article24190483.ece/Windracers-Canada-verbreken-record-in-Den-Helder)
