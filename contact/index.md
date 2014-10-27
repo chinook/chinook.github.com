@@ -12,9 +12,11 @@ N’hésitez pas à nous joindre afin de discuter du projet, pour poser des ques
 
 1100, rue Notre-Dame Ouest
 
-Montréal (Québec) H3C 1K3
+Montréal (Québec), H3C 1P7
 
-514 396-8800 ext. 7609
+Local A-1748
+
+514 396-7609
 
 chinook@ens.etsmtl.ca
 
@@ -22,8 +24,6 @@ chinook@ens.etsmtl.ca
 
 1100, rue Notre-Dame Ouest
 
-Local A-1748
+Montréal (Québec), H3C 1K3
 
-Montréal (Québec) H3C 1K3
-
-514 396-7609
+514 396-8800
