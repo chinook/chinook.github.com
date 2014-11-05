@@ -19,14 +19,12 @@ Or
 
 <div align="center" style="margin-left:auto;margin-right:auto;margin-bottom:20px;position:relative;display:block;width:300px;vertical-align:middle;text-align:center">
 <img src="http://www.etsmtl.ca/ETS/media/Prive/logo/ETS-rouge-devise-impr-fond_transparent.png">
+<img src="http://i.imgur.com/1fENIxv.png">
 </div>
-
-
 <div align="center" style="margin-left:auto;margin-right:auto;margin-bottom:20px;position:relative;display:block;width:300px;vertical-align:middle;text-align:center">
 <img src="http://i.imgur.com/1fENIxv.png">
 </div>
-<!--<img borders="0" src="http://i.imgur.com/1fENIxv.png" hspace="195" width="450" height="150" alt="BoreaConstruction">
--->
+
 
 <div align="center" style="margin-left:auto;margin-right:auto;margin-bottom:20px;position:relative;display:block;width:300px;vertical-align:middle;text-align:center">
 <img src="http://www.etsmtl.ca/ETS/media/ImagesETS/Reseau/Logo/fdetsweb_1.jpg">
