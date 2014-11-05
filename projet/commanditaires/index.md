@@ -37,11 +37,14 @@ Or
 <a href="http://www.futek.com"><img src="http://ww1.prweb.com/prfiles/2007/11/13/255770/blacklogo2.gif"></a>
 </div>
 
+<div align="center" style="margin-left:auto;margin-right:auto;margin-bottom:20px;position:relative;display:block;width:300px;vertical-align:middle;text-align:center">
+<a href="http://www.kvaser.com/"><img src="http://www.pi-innovo.com/assets/media/logo/kvaser_logo.jpg"></a>
+</div>
 
 <div align="center" style="margin-left:auto;margin-right:auto;margin-bottom:20px;position:relative;display:block;width:300px;vertical-align:middle;text-align:center">
 <img src="http://repertoiremci.com/files/formidable/logo2-200x140.png">
 </div>
-<!--<img borders="0" src="http://repertoiremci.com/files/formidable/logo2-200x140.png" hspace= "325" alt="PolymeresTechnologies">-->
+
 
 
 <div align="center" style="margin-left:auto;margin-right:auto;margin-bottom:20px;position:relative;display:block;width:300px;vertical-align:middle;text-align:center">
@@ -88,3 +91,6 @@ Bronze
 
 <li>Neutronics</li>
 </ul>
+
+<br>
+<br>
