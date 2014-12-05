@@ -42,7 +42,9 @@ Or
 <img src="http://repertoiremci.com/files/formidable/logo2-200x140.png">
 </div>
 
-
+<div align="center" style="margin-left:auto;margin-right:auto;margin-bottom:20px;position:relative;display:block;width:300px;vertical-align:middle;text-align:center">
+<img src="http://sampecarolinas.org/wp-content/iploads/2012/05/Saertex-BWC.jpg">
+</div>
 
 <div align="center" style="margin-left:auto;margin-right:auto;margin-bottom:20px;position:relative;display:block;width:300px;vertical-align:middle;text-align:center">
 <img src="http://upload.wikimedia.org/wikipedia/ru/thumb/2/2e/SKF-Logo.svg/744px-SKF-Logo.svg.png">
