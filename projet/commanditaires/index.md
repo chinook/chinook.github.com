@@ -52,7 +52,7 @@ title: Commanditaires
 
 
 <div class="clear" style="height:5px; border-bottom:none;"></div>
-</div>
+
 
 <div class="centered">
 <div class="zone">
