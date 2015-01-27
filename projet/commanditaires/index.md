@@ -69,9 +69,9 @@ title: Commanditaires
 
 <div class="sponsor column1_4"><a href="http://www.mirazed.com/fr/" title="Mirazed"><img width="176" height="219" src="http://www.mirazed.com/images/mirazed.png" class="attachment-sponsors-thumb-IV wp-post-image" alt="Mirazed"></a></div>
 
-<div class="sponsor column1_4"><a href="http://www.rousseaumetal.com/fr/" title="Rousseau Metal"><img width="95" height="108" src="http://img.directindustry.fr/images_di/logo-p/rousseau-metal-L17866.gif" class="attachment-sponsors-thumb-IV wp-post-image" alt="Mirazed"></a></div>
-
 <div class="sponsor column1_4"><a href="http://www.nanuk.com/" title="Nanuk Cases"><img width="176" height="72" src="http://www.solacelabs.com.mx/site/imagenes/nanuk_logo2.png" class="attachment-sponsors-thumb-IV wp-post-image" alt="Nanuk-cases"></a></div>
+
+<div class="sponsor column1_4"><a href="http://www.rousseaumetal.com/fr/" title="Rousseau Metal"><img width="95" height="108" src="http://img.directindustry.fr/images_di/logo-p/rousseau-metal-L17866.gif" class="attachment-sponsors-thumb-IV wp-post-image" alt="Mirazed"></a></div>
 
 <div class="clear" style="height:5px; border-bottom:none;"></div>
 </div>
