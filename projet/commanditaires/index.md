@@ -6,7 +6,7 @@ title: Commanditaires
 (En construction)
 
 
-<div class="sponsors" background-color="white">
+<div class="sponsors" style="background-color:white;">
 <div class="centered">
 <div class="zone">
 <h2>Platine</h2>
