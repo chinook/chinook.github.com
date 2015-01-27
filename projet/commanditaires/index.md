@@ -3,9 +3,6 @@ layout: projet
 title: Commanditaires
 ---
 <link rel="stylesheet" type="text/css" href="style.css">
-(En construction)
-
-
 <div class="sponsors" style="background-color:white;">
 <div class="centered">
 <div class="zone">
