@@ -42,7 +42,7 @@ title: Commanditaires
 
 <div class="sponsor column1_4"><a href="http://www.cfpmoulins.qc.ca/" title="CFP des Moulins"><img width="170" height="100" src="http://www.csaffluents.qc.ca/IMG/arton158.png" class="attachment-sponsors-thumb-III wp-post-image" alt="CFP_des_Moulins"></a></div>
 
-<div class="sponsor column1_4"><a href="http://www.cfpmoulins.qc.ca/" title="Hutchinson"><img width="177" height="160" src="http://www.r2-stand.fr/wp-content/uploads/2013/05/Hutchinson.png" class="attachment-sponsors-thumb-III wp-post-image" alt="Hutchinson"></a></div
+<div class="sponsor column1_4"><a href="http://www.cfpmoulins.qc.ca/" title="Hutchinson"><img width="177" height="160" src="http://www.r2-stand.fr/wp-content/uploads/2013/05/Hutchinson.png" class="attachment-sponsors-thumb-III wp-post-image" alt="Hutchinson"></a></div>
 
 <div class="sponsor column1_4"><a href="http://www.labocircuits.ca/" title="Labo circuits Inc."><img width="145" height="86" src="http://eclipse.etsmtl.ca/wp-content/uploads/2013/01/LaboCircuits1.jpg" class="attachment-sponsors-thumb-III wp-post-image" alt="LaboCircuits"></a></div>
 
@@ -52,7 +52,7 @@ title: Commanditaires
 
 
 <div class="clear" style="height:5px; border-bottom:none;"></div>
-
+</div>
 
 <div class="centered">
 <div class="zone">
