@@ -78,7 +78,7 @@ title: Commanditaires
 
 <div class="sponsor column1_4"><a href="" title="Hutchinson"><img width="177" height="160" src="http://www.r2-stand.fr/wp-content/uploads/2013/05/Hutchinson.png" class="attachment-sponsors-thumb-III wp-post-image" alt="Hutchinson"></a></div>
 
-<div class="sponsor column1_4"><a href="http://www.labocircuits.ca/" title="Labo circuits Inc."><img width="145" height="86" src="http://eclipse.etsmtl.ca/wp-content/uploads/2013/01/LaboCircuits1.jpg" class="attachment-sponsors-thumb-III wp-post-image" alt="LaboCircuits"></a></div>
+<div class="sponsor column1_4"><a href="http://www.labocircuits.ca/" title="Labo circuits Inc."><img width="250" height="120" src="http://eclipse.etsmtl.ca/wp-content/uploads/2013/01/LaboCircuits1.jpg" class="attachment-sponsors-thumb-III wp-post-image" alt="LaboCircuits"></a></div>
 
 <div class="sponsor column1_4"><a href="http://www.solaxis.ca/" title="Solaxis Ingéniosité Manufacturière inc."><img width="176" height="52" src="http://eclipse.etsmtl.ca/wp-content/uploads/2013/05/Solaxis-176x52.gif" class="attachment-sponsors-thumb-IV wp-post-image" alt="Solaxis"></a></div>
 
@@ -98,11 +98,11 @@ title: Commanditaires
 
 <div class="sponsor column1_3"><a href="http://www.igus.com/default.asp?c=us&amp;L=en" title="Igus"><img width="176" height="92" src="http://eclipse.etsmtl.ca/wp-content/uploads/2013/05/Igus-176x92.png" class="attachment-sponsors-thumb-IV wp-post-image" alt="Igus"></a></div>
 
-<div class="sponsor column1_3"><a href="http://www.mirazed.com/fr/" title="Mirazed"><img width="176" height="219" src="http://www.mirazed.com/images/mirazed.png" class="attachment-sponsors-thumb-IV wp-post-image" alt="Mirazed"></a></div>
+<div class="sponsor column1_3"><a href="http://www.mirazed.com/fr/" title="Mirazed"><img width="176" height="176" src="http://www.mirazed.com/images/mirazed.png" class="attachment-sponsors-thumb-IV wp-post-image" alt="Mirazed"></a></div>
 
-<div class="sponsor column1_3"><a href="http://www.nanuk.com/" title="Nanuk Cases"><img width="176" height="72" src="http://www.solacelabs.com.mx/site/imagenes/nanuk_logo2.png" class="attachment-sponsors-thumb-IV wp-post-image" alt="Nanuk-cases"></a></div>
+<div class="sponsor column1_3"><a href="http://www.nanuk.com/" title="Nanuk Cases"><img width="176" height="50" src="http://www.solacelabs.com.mx/site/imagenes/nanuk_logo2.png" class="attachment-sponsors-thumb-IV wp-post-image" alt="Nanuk-cases"></a></div>
 
-<div class="sponsor column1_3"><a href="http://www.rousseaumetal.com/fr/" title="Rousseau Metal"><img width="95" height="108" src="http://img.directindustry.fr/images_di/logo-p/rousseau-metal-L17866.gif" class="attachment-sponsors-thumb-IV wp-post-image" alt="Mirazed"></a></div>
+<div class="sponsor column1_3"><a href="http://www.rousseaumetal.com/fr/" title="Rousseau Metal"><img width="95" height="176" src="http://img.directindustry.fr/images_di/logo-p/rousseau-metal-L17866.gif" class="attachment-sponsors-thumb-IV wp-post-image" alt="Mirazed"></a></div>
 
 <div class="clear" style="height:5px; border-bottom:none;"></div>
 </div>
