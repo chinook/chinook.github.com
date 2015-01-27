@@ -2,7 +2,7 @@
 layout: projet
 title: Commanditaires
 ---
-<link rel="stylesheet" type="text/css" href="mystyle.css">
+<link rel="stylesheet" type="text/css" href="style.css">
 (En construction)
 
 
