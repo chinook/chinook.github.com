@@ -4,9 +4,9 @@ title: Commanditaires
 ---
 <link rel="stylesheet" type="text/css" href="style.css">
 <style type="text/css">
-	.sponsors .zone h2{ color:#fff; margin:0; text-align:center;}
+	.sponsors .zone h2{ color:#000; margin:0; text-align:center;}
 	.sponsors .zone {
-		 background-color:#000;
+		 background-color:#FFF;
 		 padding:5px;
 		 clear:left;
 		 margin-bottom:10px;
@@ -55,7 +55,7 @@ title: Commanditaires
 
 <div class="sponsor column1_4"><a href="http://fdets.etsmtl.ca/" title="Fonds de développement de l’ÉTS"><img width="176" height="102" src="http://eclipse.etsmtl.ca/wp-content/uploads/2013/05/ETS_FondsDeveloppement-176x102.png" class="attachment-sponsors-thumb-IV wp-post-image" alt="ETS_FondsDeveloppement"></a></div>
 
-<div class="sponsor column1_4"><a href="http://www.futek.com" title="Futek"><img width="176" height="102" src="http://ww1.prweb.com/prfiles/2007/11/13/255770/blacklogo2.gif" class="attachment-sponsors-thumb-IV wp-post-image" alt="Futek-logo"></a></div>
+<div class="sponsor column1_4"><a href="http://www.futek.com" title="Futek"><img width="176" height="75" src="http://ww1.prweb.com/prfiles/2007/11/13/255770/blacklogo2.gif" class="attachment-sponsors-thumb-IV wp-post-image" alt="Futek-logo"></a></div>
 
 <div class="sponsor column1_4"><a href="http://www.kvaser.com" title="Kvaser"><img width="176" height="102" src="http://www.pi-innovo.com/assets/media/logo/kvaser_logo.jpg" class="attachment-sponsors-thumb-IV wp-post-image" alt="Futek-logo"></a></div>
 
