@@ -6,7 +6,7 @@ title: Commanditaires
 <style type="text/css">
 	.sponsors .zone h2{ color:#000; margin:0; text-align:center;}
 	.sponsors .zone {
-		 background-color:#444;
+		 background-color:#AAA;
 		 padding:5px;
 		 clear:left;
 		 margin-bottom:10px;
