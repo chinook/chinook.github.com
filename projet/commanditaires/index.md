@@ -57,13 +57,15 @@ title: Commanditaires
 
 <div class="sponsor column1_4"><a href="http://www.futek.com" title="Futek"><img width="176" height="75" src="http://ww1.prweb.com/prfiles/2007/11/13/255770/blacklogo2.gif" class="attachment-sponsors-thumb-IV wp-post-image" alt="Futek-logo"></a></div>
 
+<div class="sponsor column1_4"><a href="http://www.gurit.com" title="Gurit"><img width="200" height="100" src="http://revchem.com/wp-content/uploads/gurit.jpg" class="attachment-sponsors-thumb-IV wp-post-image" alt="Gurit-logo"></a></div>
+
 <div class="sponsor column1_4"><a href="http://www.kvaser.com" title="Kvaser"><img width="176" height="102" src="http://www.pi-innovo.com/assets/media/logo/kvaser_logo.jpg" class="attachment-sponsors-thumb-IV wp-post-image" alt="Futek-logo"></a></div>
 
 <div class="sponsor column1_4"><a href="http://www.polymerestechnologies.com/" title="Polymeres Technologies"><img width="200" height="140" src="http://repertoiremci.com/files/formidable/logo2-200x140.png" class="attachment-sponsors-thumb-IV wp-post-image" alt="polymeres-logo"></a></div>
 
 <div class="sponsor column1_4"><a href="http://www.saertex.com/" title="Saertex"><img width="200" height="140" src="http://sampecarolinas.org/wp-content/iploads/2012/05/Saertex-BWC.jpg" class="attachment-sponsors-thumb-IV wp-post-image" alt="Saertex-logo"></a></div>
 
-<div class="sponsor column1_4"><a href="http://www.skf.com/ca/fr/index.html" title="SKF"><img width="200" height="110" src="http://upload.wikimedia.org/wikipedia/ru/thumb/2/2e/SKF-Logo.svg/744px-SKF-Logo.svg.png" class="attachment-sponsors-thumb-IV wp-post-image" alt="SKF-logo"></a></div>
+<div class="sponsor column1_4"><a href="http://www.skf.com/ca/fr/index.html" title="SKF"><img width="200" height="70" src="http://upload.wikimedia.org/wikipedia/ru/thumb/2/2e/SKF-Logo.svg/744px-SKF-Logo.svg.png" class="attachment-sponsors-thumb-IV wp-post-image" alt="SKF-logo"></a></div>
 
 
 <div class="clear" style="height:5px; border-bottom:none;"></div>
