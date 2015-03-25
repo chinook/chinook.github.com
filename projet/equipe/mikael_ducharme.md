@@ -1,9 +1,9 @@
 ---
 tags:
- - team2013
+ - team2015
 title: Mikaël Ducharme
-subtitle: Électrique, volant
+subtitle: VP Électrique, Co-Capitaine
 picture: pictures/mikael_ducharme.png
 ---
 
-yupyup
+gay
