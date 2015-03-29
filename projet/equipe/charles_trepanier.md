@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
  - team2015
 title: Charles Trépanier
