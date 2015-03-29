@@ -2,7 +2,7 @@
 tags:
  - team2015
 title: Nicolas Doyon
-subtitle: VP Mécanique
+subtitle: 
 picture: pictures/nicolas_doyon.png
 ---
 
