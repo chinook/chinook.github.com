@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
  - team2013
 title: Étienne Vachon
