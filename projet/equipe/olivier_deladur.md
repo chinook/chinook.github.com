@@ -2,7 +2,7 @@
 tags:
  - team2015
 title: Olivier De La Durantaye
-subtitle: 
+subtitle: Mécanique, essieu
 picture: pictures/olivier_deladur.png
 ---
 

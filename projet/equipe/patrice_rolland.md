@@ -2,7 +2,7 @@
 tags:
  - team2015
 title: Patrice Rolland
-subtitle: 
+subtitle: Électrique, librairie MCU
 picture: pictures/patrice_rolland.png
 ---
 

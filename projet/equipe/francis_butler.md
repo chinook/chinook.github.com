@@ -2,7 +2,7 @@
 tags:
  - team2015
 title: Francis Butler
-subtitle: 
+subtitle: Mécanique, direction
 picture: pictures/francis_butler.png
 ---
 

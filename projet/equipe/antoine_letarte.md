@@ -2,7 +2,7 @@
 tags:
  - team2015
 title: Antoine Letarte
-subtitle: Capitaine, Hub
+subtitle: Mécanique, rotor/stator
 picture: pictures/antoine_letarte.png
 ---
 

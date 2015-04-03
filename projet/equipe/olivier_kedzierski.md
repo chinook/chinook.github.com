@@ -2,7 +2,7 @@
 tags:
  - team2015
 title: Olivier Ked
-subtitle: Mécanique
+subtitle: Mécanique, transmission
 picture: pictures/olivier_ked.png
 ---
 

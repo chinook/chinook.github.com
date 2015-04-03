@@ -2,7 +2,7 @@
 tags:
  - team2015
 title: Laurent Girard
-subtitle: 
+subtitle: Mécanique, usinage
 picture: pictures/laurent_girard.png
 ---
 

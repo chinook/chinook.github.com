@@ -2,7 +2,7 @@
 tags:
  - team2015
 title: Mikaël Ducharme
-subtitle: VP Électrique, Co-Capitaine
+subtitle: Co-Capitaine, Électrique, capteurs et télémétrie
 picture: pictures/mikael_ducharme.png
 ---
 

@@ -2,7 +2,7 @@
 tags:
  - team2015
 title: Frédéric Chassé
-subtitle: 
+subtitle: Électrique, librairie MCU
 picture: pictures/fred_chasse.png
 ---
 
