@@ -1,12 +1,12 @@
 ﻿---
 layout: projet
-title: 2013 - Chinook 4
+title: 2014 - 2015 Chinook 4
 ---
 
 Le chinook 4
 ============
 
-![chinook3](pictures/chinook4.jpg)
+![chinook4](pictures/chinook4.jpg)
 
 L'équipe du Chinook 4
 =====================
