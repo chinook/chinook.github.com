@@ -1,6 +1,6 @@
 ---
 layout: projet
-title: 2013 - Chinook 3
+title: 2012 - 2013 Chinook 3
 ---
 
 Le chinook 3
