@@ -1,8 +1,8 @@
 ---
 tags:
- - team2013
+ - team2015
 title: Gabriel Lemay-Gosselin
-subtitle: Trésorier, Resp. Logistique et des communications
+subtitle: Resp. Logistique
 picture: pictures/gabriel_lemay-gosselin.png
 ---
 
