@@ -82,6 +82,8 @@ title: Commanditaires
 
 <div class="sponsor column1_4"><a href="http://www.labocircuits.ca/" title="Labo circuits Inc."><img width="250" height="120" src="http://eclipse.etsmtl.ca/wp-content/uploads/2013/01/LaboCircuits1.jpg" class="attachment-sponsors-thumb-III wp-post-image" alt="LaboCircuits"></a></div>
 
+<div class="sponsor column1_3"><a href="http://www.rousseaumetal.com/fr/" title="Rousseau Metal"><img width="190" height="352" src="http://img.directindustry.fr/images_di/logo-p/rousseau-metal-L17866.gif" class="attachment-sponsors-thumb-IV wp-post-image" alt="RousseauMetal"></a></div>
+
 <div class="sponsor column1_4"><a href="http://www.solaxis.ca/" title="Solaxis Ingéniosité Manufacturière inc."><img width="176" height="52" src="http://eclipse.etsmtl.ca/wp-content/uploads/2013/05/Solaxis-176x52.gif" class="attachment-sponsors-thumb-IV wp-post-image" alt="Solaxis"></a></div>
 
 <div class="sponsor column1_4"><a href="http://www.soucy-group.com/fr-CA/accueil" title="Soucy International"><img width="176" height="52" src="http://www.soucy-group.com/fr-CA/_media/image/1284/soucy-group.png" class="attachment-sponsors-thumb-IV wp-post-image" alt="Soucy International"></a></div>
@@ -103,8 +105,6 @@ title: Commanditaires
 <div class="sponsor column1_3"><a href="http://www.mirazed.com/fr/" title="Mirazed"><img width="176" height="176" src="http://www.mirazed.com/images/mirazed.png" class="attachment-sponsors-thumb-IV wp-post-image" alt="Mirazed"></a></div>
 
 <div class="sponsor column1_3"><a href="http://www.nanuk.com/" title="Nanuk Cases"><img width="176" height="50" src="http://www.solacelabs.com.mx/site/imagenes/nanuk_logo2.png" class="attachment-sponsors-thumb-IV wp-post-image" alt="Nanuk-cases"></a></div>
-
-<div class="sponsor column1_3"><a href="http://www.rousseaumetal.com/fr/" title="Rousseau Metal"><img width="95" height="176" src="http://img.directindustry.fr/images_di/logo-p/rousseau-metal-L17866.gif" class="attachment-sponsors-thumb-IV wp-post-image" alt="Mirazed"></a></div>
 
 <div class="clear" style="height:5px; border-bottom:none;"></div>
 </div>
