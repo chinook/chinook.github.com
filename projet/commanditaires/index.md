@@ -59,7 +59,7 @@ title: Commanditaires
 
 <div class="sponsor column1_4"><a href="http://www.gurit.com" title="Gurit"><img width="200" height="100" src="http://revchem.com/wp-content/uploads/gurit.jpg" class="attachment-sponsors-thumb-IV wp-post-image" alt="Gurit-logo"></a></div>
 
-<div class="sponsor column1_4"><a href="http://www.kvaser.com" title="Kvaser"><img width="176" height="102" src="http://www.pi-innovo.com/assets/media/logo/kvaser_logo.jpg" class="attachment-sponsors-thumb-IV wp-post-image" alt="Futek-logo"></a></div>
+<div class="sponsor column1_4"><a href="http://www.kvaser.com" title="Kvaser"><img width="176" height="102" src="http://cdn.kvaser.com/wp-content/themes/kvaser/assets/images/logo.png" class="attachment-sponsors-thumb-IV wp-post-image" alt="Futek-logo"></a></div>
 
 <div class="sponsor column1_4"><a href="http://www.polymerestechnologies.com/" title="Polymeres Technologies"><img width="200" height="140" src="http://repertoiremci.com/files/formidable/logo2-200x140.png" class="attachment-sponsors-thumb-IV wp-post-image" alt="polymeres-logo"></a></div>
 
