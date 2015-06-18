@@ -20,7 +20,7 @@ layout: master
 - [Chinook 4 - Racing Aeolus 2014 Jour 4](https://www.youtube.com/watch?v=AlWiVT3gD-U)
 - [Chinook 4 - Racing Aeolus 2014 Jour 1,2,3](https://www.youtube.com/watch?v=9PjzKy4_IUM)
 - [Chinook 4 - Lancement](https://www.youtube.com/watch?v=lSbKpKfWgf4)
-- [Chinook 3 - Vidéo Officiel de la compétition 2013](http://www.youtube.com/embed/B507yxnqjKI)
+- [Chinook 3 - Vidéo Officiel de la compétition 2013](https://www.youtube.com/watch?v=B507yxnqjKI)
 - [Chinook 2 - Racing Aeolus 2012](http://youtu.be/U2tygIzM7Fw)
 - [Chinook 2 - Déluge a Racing Aeolus 2012](http://youtu.be/dAE95Y5__Ss)
 - [Chinook 2 - Premiers essais de transmission et embrayage; Racing Aeolus 2012](http://youtu.be/JGRe0Wwn57E)
